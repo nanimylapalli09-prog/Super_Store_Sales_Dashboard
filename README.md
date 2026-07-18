@@ -8,6 +8,9 @@ This project showcases an interactive Retail Sales Dashboard developed in Micros
 
 It enables users to monitor key performance indicators (KPIs), identify sales trends, compare regional performance, and evaluate product category performance to support data-driven decision-making.
 
+Dashboard Screenshot
+![Retail Sales Dashboard](images/dashboard.png)
+
 
 
  Objectives
